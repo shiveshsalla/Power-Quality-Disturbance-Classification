@@ -1,0 +1,26 @@
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
+
+# Project documentation not intended for GitHub
+EEE-review*
+*.ppt
+*.pptx
+*.pdf
